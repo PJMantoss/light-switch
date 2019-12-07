@@ -3,8 +3,8 @@ import React, { useState } from "react";
 export default function LightBulb() {
     let [light, setLight] = useState(0);
 
-    const setOn = () => setLight(0);
-    const setOff = () => setLight(1);
+    const setOff = () => setLight(0);
+    const setOn = () => setLight(1);
 
     let fillColor = light === 1 ? "#ffbb73" : "#000000";
 
