@@ -21,3 +21,12 @@ export default function LightBulb() {
         </div>
     )
 }
+
+function LightBulbSvg(props){
+    return (
+        <svg>
+            <defs />
+            <g></g>
+        <svg/>
+    )
+}
