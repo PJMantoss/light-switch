@@ -25,6 +25,16 @@ button {
   margin: 3px;
 }
 
+button:hover {
+  background: darkslategrey;
+}
+
+button:active {
+  -webkit-transform: scale(0.99);
+          transform: scale(0.99);
+}
+
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
