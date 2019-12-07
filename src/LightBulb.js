@@ -23,7 +23,7 @@ export default function LightBulb() {
 
 function LightBulbSvg(props){
     return ( // SVG markup for shape of a light bulb
-        <svg width="56px" height="90px" viewBox="0 0 56 90" version="1.1">
+        <svg width="206px" height="240px" viewBox="0 0 56 90" version="1.1">
             <defs />
             <g 
                 id="Page-1" 

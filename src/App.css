@@ -1,6 +1,13 @@
 .App {
+  background-color: transparent;
+  display: block;
+  margin: auto;
+  padding-top: 50px;
+  width: 400px;
+  height: 350px;
   text-align: center;
   font-family: sans-serif;
+  align-content: center;
 }
 
 .App-logo {
